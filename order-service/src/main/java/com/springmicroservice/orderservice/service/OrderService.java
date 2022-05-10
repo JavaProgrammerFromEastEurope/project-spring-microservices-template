@@ -1,6 +1,5 @@
 package com.springmicroservice.orderservice.service;
 
-import java.util.List;
 import java.util.UUID;
 
 import com.springmicroservice.orderservice.dto.OrderLineItemsDto;
